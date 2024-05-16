@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Borna Sayedana"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate at Department of Electrical and Computer Engineering, McGill University"
+  location         : "Montreal, Qc"
+  employer         : "McGill University"
   uri              : # URL
   email            : "none@example.org" 
 
