@@ -8,7 +8,7 @@ Course Lecturer, McGill University
 ======
 ECSE 307 (Linear Systems and Control)
 
-Graduate Teaching Assistant
+Graduate Teaching Assistant, McGill University
 ======
 1. ECSE 205 (Probability and Random Signals I)
 2. ECSE 210 (Electric Circuits II)
