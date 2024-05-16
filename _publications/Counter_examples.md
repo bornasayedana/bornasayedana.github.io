@@ -2,7 +2,8 @@
 title: "Counterexamples on the Monotonicity of Delay Optimal Strategies for Energy Harvesting Transmitters"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2020-07
+excerpt: ''
+date: 2020-07-01
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9037352'
 citation: 'B. Sayedana and A. Mahajan, "Counterexamples on the Monotonicity of Delay Optimal Strategies for Energy Harvesting Transmitters," in IEEE Wireless Communications Letters, vol. 9, no. 7, pp. 1070-1074, July 2020, doi: 10.1109/LWC.2020.2981066.'
