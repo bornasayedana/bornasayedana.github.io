@@ -55,9 +55,14 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Course Lecturer, McGill University
+  * ECSE 307 (Linear Systems and Control)
+* Teaching Assistant, McGill University
+  * ECSE 205 (Probability and Random Signals I)
+  * ECSE 210 (Electric Circuits II)
+  * ECSE 307 (Linear Systems and Control)
+  * ECSE 403 (Control)
+  * ECSE 508 (Multi-Agent Systems)
   
 Service and leadership
 ======
