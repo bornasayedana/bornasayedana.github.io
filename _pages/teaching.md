@@ -10,8 +10,8 @@ ECSE 307 (Linear Systems and Control)
 
 Graduate Teaching Assistant, McGill University
 ======
-1. ECSE 205 (Probability and Random Signals I)
-2. ECSE 210 (Electric Circuits II)
-3. ECSE 307 (Linear Systems and Control)
-4. ECSE 403 (Control)
-5. ECSE 508 (Multi-Agent Systems)
+* ECSE 205 (Probability and Random Signals I)
+* ECSE 210 (Electric Circuits II)
+* ECSE 307 (Linear Systems and Control)
+* ECSE 403 (Control)
+* ECSE 508 (Multi-Agent Systems)
