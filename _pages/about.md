@@ -12,7 +12,7 @@ I am a 4th year PhD candidate at the Department of Electrical and Computer Engin
 
 Research Interests
 ======
-1. Reinforcement Learning 
-2. Mathematical Statistics 
-3. Stochastic Control Theory 
+* Reinforcement Learning 
+* Mathematical Statistics 
+* Stochastic Control Theory 
 
