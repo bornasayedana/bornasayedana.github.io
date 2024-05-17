@@ -8,4 +8,5 @@ date: 2023-12-16
 location: "Montreal, Canada"
 ---
 
+I presented my work at the Canadian Mathematical Society Winter Meeting at Montreal. 
 
