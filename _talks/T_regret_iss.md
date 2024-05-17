@@ -8,3 +8,4 @@ date: 2024-04-24
 location: "Montreal, Canada"
 ---
 
+I presented my work at the Informal Systems Seminar (ISS) at McGill University. 
