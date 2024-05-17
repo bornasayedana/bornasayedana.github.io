@@ -9,3 +9,4 @@ location: "Montreal, Canada"
 ---
 
 I presented my work at the Informal Systems Seminar (ISS) at McGill University. 
+Link : [ISS talk][https://www.gerad.ca/en/events/2237]
