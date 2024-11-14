@@ -3,7 +3,7 @@ title: "Asymptotic Normality of Cumulative Cost in Linear Quadratic Regulators"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2022-12-06
+date: 2024-12-13
 venue: '2024 IEEE 63rd Conference on Decision and Control (CDC)'
 paperurl: 'https://bornasayedana.github.io/files/CDC24'
 citation: 'B. Sayedana, P. E. Caines and A. Mahajan, "Asymptotic Normality of Cumulative Cost in Linear Quadratic Regulators," 2024 IEEE 63rd Conference on Decision and Control (CDC), Milan, Italy, 2024.'
