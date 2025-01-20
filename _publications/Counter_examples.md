@@ -1,7 +1,7 @@
 ---
 title: "Counterexamples on the Monotonicity of Delay Optimal Strategies for Energy Harvesting Transmitters"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: public-files/Counterexamples.pdf
 excerpt: ''
 date: 2020-07-01
 venue: 'IEEE Wireless Communications Letters'
