@@ -1,7 +1,7 @@
 ---
 title: "Relative Almost Sure Regret Bounds for Certainty Equivalence Control of Markov Jump Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: public-files/Relative.pdf
 excerpt: ''
 date: 2023-12-13
 venue: '2023 IEEE 61st Conference on Decision and Control (CDC)'
