@@ -5,7 +5,7 @@ permalink: /publication/cross_layer
 excerpt: ''
 date: 2020-06-15
 venue: '2020 18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOPT)'
-paperurl: '[https://ieeexplore.ieee.org/document/9037352](https://ieeexplore.ieee.org/document/9155327)'
+paperurl: 'https://ieeexplore.ieee.org/document/9155327'
 citation: 'B. Sayedana, A. Mahajan and E. Yeh, "Cross-layer communication over fading channels with adaptive decision feedback," 2020 18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOPT), Volos, Greece, 2020, pp. 1-8.'
 ---
 
