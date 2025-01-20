@@ -20,4 +20,4 @@ the optimal policy in linear quadratic regulators using first
 principles. Our proof technique relies on a decomposition
 of cumulative cost using a completion of square argument,
 properties of the noise sequence with even density, and a central
-limit theorem for martingale difference sequences. <a href="https://bornasayedana.github.io/public-files/public-files/CDC24.pdf" style="color: blue; text-decoration: underline;">(pdf)</a>
+limit theorem for martingale difference sequences. <a href="https://bornasayedana.github.io/public-files/CDC24.pdf" style="color: blue; text-decoration: underline;">(pdf)</a>
