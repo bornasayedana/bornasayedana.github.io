@@ -1,7 +1,7 @@
 ---
 title: "Thompson-Sampling Based Reinforcement Learning for Networked Control of Unknown Linear Systems"
 collection: publications
-permalink: public-files/Thompson_sampling.pdf
+permalink: /publication/thompson_sampling
 excerpt: ''
 date: 2022-12-06
 venue: '2022 IEEE 61st Conference on Decision and Control (CDC)'
