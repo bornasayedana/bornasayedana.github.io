@@ -1,7 +1,7 @@
 ---
 title: "Concentration of Cumulative Reward in Markov Decision Processes"
 collection: publications
-permalink: public-files/concentration.pdf
+permalink: /publication/concentration
 excerpt: ''
 date: 2024-12-27
 venue: 'Preprint on Arxiv'
