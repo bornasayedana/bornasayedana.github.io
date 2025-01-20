@@ -17,4 +17,4 @@ Azuma-Hoeffding-type inequalities and a non-asymptotic version of the law of ite
 sample path behavior of the difference in rewards between any two stationary policies. Second, we show that two alternative definitions of regret for learning policies proposed in the
 literature are rate-equivalent. Our proof techniques rely on a novel martingale decomposition of cumulative rewards, properties of the solution to the policy evaluation fixed-point
 equation, and both asymptotic and non-asymptotic concentration results for martingale
-difference sequences..
+difference sequences. <a href="https://bornasayedana.github.io/public-files/concentration.pdf" style="color: blue; text-decoration: underline;">(pdf)</a>
