@@ -1,7 +1,7 @@
 ---
 title: "Consistency and Rate of Convergence of Switched Least Squares System Identification for Autonomous Markov Jump Linear Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: public-files/Consistency.pdf
 excerpt: ''
 date: 2022-12-06
 venue: '2022 IEEE 61st Conference on Decision and Control (CDC)'
