@@ -1,7 +1,7 @@
 ---
 title: "Asymptotic Normality of Cumulative Cost in Linear Quadratic Regulators"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://bornasayedana.github.io/public-files/CDC24.pdf
 excerpt: ''
 date: 2024-12-13
 venue: '2024 IEEE 63rd Conference on Decision and Control (CDC)'
