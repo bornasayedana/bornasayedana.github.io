@@ -1,7 +1,7 @@
 ---
 title: "Cross-layer communication over fading channels with adaptive decision feedback"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/cross_layer
 excerpt: ''
 date: 2020-06-15
 venue: '2020 18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOPT)'
